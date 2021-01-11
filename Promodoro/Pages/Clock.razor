@@ -1,0 +1,40 @@
+﻿@page "/clock"
+
+@code {
+    TimeSpan timer = new TimeSpan(0, 25, 0);
+    bool isRunning = false;
+
+    private async Task Start()
+    {
+        isRunning = true;
+        while (isRunning)
+        {
+            await Task.Delay(1000);
+            if (isRunning)
+            {
+                timer = timer.Add(new TimeSpan(0, 0, -1));
+                StateHasChanged();
+            }
+
+            //tu dong reset khi dem ve 0
+            if (timer == new TimeSpan())
+            {
+                timer = new TimeSpan(0, 25, 0);
+                StateHasChanged();
+            }
+        }
+    }
+}
+
+<div class="d-flex flex-column align-items-center">
+    <div class="mb-4">
+        <h1>@timer.ToString(@"mm\:ss")</h1>
+        @*<h1 class="mx-4">:</h1>
+        <h1>MM</h1>*@
+    </div>
+    <div>
+        <button class="btn btn-primary" @onclick="@(async () => { Start(); })">Start</button>
+        <button class="btn btn-success mx-4" @onclick="@(() => { isRunning = false; })" disabled="@(!isRunning)">Pause</button>
+        <button class="btn btn-secondary" @onclick="@(() => { isRunning = false; timer = new TimeSpan(0, 25, 0); })">Reset</button>
+    </div>
+</div>
