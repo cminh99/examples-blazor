@@ -1,0 +1,64 @@
+﻿@page "/todo"
+@using Data
+@inject TodoItemServices Service
+
+@code {
+    private List<TodoItem> todos;
+    //private TodoItem todo;
+    private string inputTodo;
+
+    protected override void OnInitialized()
+    {
+        todos = Service.GetTodos();
+    }
+
+    private void Add()
+    {
+        if (!string.IsNullOrWhiteSpace(inputTodo))
+        {
+            todos.Add(new TodoItem() { title = inputTodo });
+        }
+    }
+
+    private void Delete()
+    {
+        todos.RemoveAll(i => i.isDone);
+        Service.SaveChanges();
+    }
+
+    private void Save() => Service.SaveChanges();
+}
+
+<div class="input-group mb-3">
+    <input class="form-control" type="text" placeholder="Add a todo" @bind="inputTodo" />
+    <div class="input-group-append">
+        <button class="btn btn-primary px-4" type="button" @onclick="Add">Add</button>
+    </div>
+</div>
+
+@if (todos == null)
+{
+    <div class="alert alert-warning">Không có dữ liệu!</div>
+}
+else
+{
+    <ol class="list-group">
+        @foreach (var todo in todos)
+        {
+            <li>
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">
+                            <input class="custom-checkbox" type="checkbox" @bind="todo.isDone" />
+                        </span>
+                    </div>
+                    <input @bind="todo.title" class="form-control" type="text" placeholder="Todo" disabled="@(todo.isDone ? true : false)" />
+                    <div class="input-group-append">
+                        <button class="btn btn-outline-danger" type="button" @onclick="Delete">Delete</button>
+                    </div>
+                </div>
+            </li>
+        }
+    </ol>
+    <button @onclick="Save" class="btn btn-success px-4">Save</button>
+}
