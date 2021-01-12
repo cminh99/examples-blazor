@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8pKcu8F5VOcuS7FlhsDjDJiRMwPr8lVuB+qzybLOIrI3e9t/MyHupV+eoBgNHeTHH84OJZG+JrT6W6Aj0x9g1g==",
+  "dgSpecHash": "1cJ5botSbdx7tKzMfYUP64jYz6jy/Lq01lr5Ht63xwL7+pX2ZCMveoepqpfN/wm/IYUWNPmlGPBOYfSWXUqSmA==",
   "success": true,
-  "projectFilePath": "D:\\learn blazor (thuc tap)\\@test\\Promodoro\\Promodoro.csproj",
+  "projectFilePath": "D:\\learn blazor (thuc tap)\\Promodoro\\Promodoro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cm\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.1\\microsoft.aspnetcore.authorization.5.0.1.nupkg.sha512",
     "C:\\Users\\cm\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.1\\microsoft.aspnetcore.components.5.0.1.nupkg.sha512",

@@ -1150,11 +1150,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\learn blazor (thuc tap)\\@test\\Promodoro\\Promodoro.csproj",
+      "projectUniqueName": "D:\\learn blazor (thuc tap)\\Promodoro\\Promodoro.csproj",
       "projectName": "Promodoro",
-      "projectPath": "D:\\learn blazor (thuc tap)\\@test\\Promodoro\\Promodoro.csproj",
+      "projectPath": "D:\\learn blazor (thuc tap)\\Promodoro\\Promodoro.csproj",
       "packagesPath": "C:\\Users\\cm\\.nuget\\packages\\",
-      "outputPath": "D:\\learn blazor (thuc tap)\\@test\\Promodoro\\obj\\",
+      "outputPath": "D:\\learn blazor (thuc tap)\\Promodoro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
