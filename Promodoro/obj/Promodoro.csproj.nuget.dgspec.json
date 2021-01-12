@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\c#\\Promodoro\\Promodoro.csproj": {}
+    "D:\\learn blazor (thuc tap)\\@test\\Promodoro\\Promodoro.csproj": {}
   },
   "projects": {
-    "D:\\projects\\c#\\Promodoro\\Promodoro.csproj": {
+    "D:\\learn blazor (thuc tap)\\@test\\Promodoro\\Promodoro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\c#\\Promodoro\\Promodoro.csproj",
+        "projectUniqueName": "D:\\learn blazor (thuc tap)\\@test\\Promodoro\\Promodoro.csproj",
         "projectName": "Promodoro",
-        "projectPath": "D:\\projects\\c#\\Promodoro\\Promodoro.csproj",
+        "projectPath": "D:\\learn blazor (thuc tap)\\@test\\Promodoro\\Promodoro.csproj",
         "packagesPath": "C:\\Users\\cm\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\c#\\Promodoro\\obj\\",
+        "outputPath": "D:\\learn blazor (thuc tap)\\@test\\Promodoro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -43,6 +43,21 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,15 +68,23 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
+              "version": "[5.0.1, 5.0.1]"
+            }
+          ],
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
         }
       }
     }

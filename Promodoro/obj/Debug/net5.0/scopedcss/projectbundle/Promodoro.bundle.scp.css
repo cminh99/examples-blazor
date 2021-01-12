@@ -1,6 +1,6 @@
 @import '';
 
-/* _content/Promodoro/Shared/MainLayout.razor.rz.scp.css */
+/* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-9v8uyi7qss] {
     position: relative;
     display: flex;
@@ -71,7 +71,7 @@
         padding-right: 1.5rem !important;
     }
 }
-/* _content/Promodoro/Shared/NavMenu.razor.rz.scp.css */
+/* /Shared/NavMenu.razor.rz.scp.css */
 .navbar-toggler[b-fd6w1l1qde] {
     background-color: rgba(255, 255, 255, 0.1);
 }
