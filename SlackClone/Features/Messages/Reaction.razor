@@ -1,0 +1,15 @@
+﻿@using SlackClone.Domain
+
+<button class="btn btn-sm btn-primary mt-1 mb-3" @onclick="Like">
+    Like @MessageDetails.Like
+</button>
+
+@code {
+    [Parameter]
+    public SlackMessage MessageDetails { get; set; } = new SlackMessage();
+
+    private void Like()
+    {
+        MessageDetails.Like++;
+    }
+}

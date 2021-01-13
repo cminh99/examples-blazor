@@ -1,0 +1,44 @@
+﻿@page "/slack"
+@using SlackClone.Features.Messages
+@using SlackClone.Features.PostMessages
+@using SlackClone.Features.EditMessages 
+@using SlackClone.Domain
+
+@foreach (var message in messages)
+{
+    <EditableMessage Details="@message" />
+}
+
+<div class="mt-4">
+    @*using lamda expression*@
+    @*<PostMessage OnPosted="@((string e) => HandleNewMessage(e))" />*@
+    <PostMessage OnPosted="HandleNewMessage" />
+</div>
+
+@code {
+    private List<SlackMessage> messages;
+
+    protected override void OnInitialized()
+    {
+        messages = new List<SlackMessage>
+        {
+            new SlackMessage
+            {
+                PostedBy = "Cong Minh",
+                PostedOn = DateTime.Now,
+                Message = "Hello Quoc Tuan!",
+            },
+            new SlackMessage
+            {
+                PostedBy = "Quoc Tuan",
+                PostedOn = DateTime.Now,
+                Message = "Hello Cong Minh!",
+            }
+        };
+    }
+
+    protected void HandleNewMessage(SlackMessage message)
+    {
+        messages.Add(message);
+    }
+}

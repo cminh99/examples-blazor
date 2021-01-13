@@ -1,0 +1,47 @@
+﻿@using SlackClone.Domain
+
+<div class="card mt-3">
+    <div class="card-body">
+        <EditForm Model="NewMessage" OnValidSubmit="HandleSubmit">
+            <div class="form-group">
+                <InputTextArea class="form-control" placeholder="Type your message!" @bind-Value="NewMessage.Message" />
+            </div>
+            <div>
+                <button class="btn btn-primary" type="submit">Post</button>
+                <span>@warning</span>
+            </div>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    // NewMessage
+    // {
+    //    PostedBy;
+    //    PostedOn;
+    //    Message;
+    // }
+    public SlackMessage NewMessage { get; set; } = new SlackMessage();
+    public string warning = "";
+
+    // EventCallback is used to communicate between children and parent
+    [Parameter]
+    public EventCallback<SlackMessage> OnPosted { get; set; }
+
+    protected async Task HandleSubmit()
+    {
+        if (!string.IsNullOrEmpty(NewMessage.Message))
+        {
+            NewMessage.PostedBy = "Minh Man";
+            NewMessage.PostedOn = DateTime.Now;
+            await OnPosted.InvokeAsync(NewMessage);
+
+            NewMessage = new SlackMessage();
+            warning = "";
+        }
+        else
+        {
+            warning = "Please enter a message!";
+        }
+    }
+}
