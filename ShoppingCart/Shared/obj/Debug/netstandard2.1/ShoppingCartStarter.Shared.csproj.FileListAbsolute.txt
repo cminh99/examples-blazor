@@ -1,0 +1,9 @@
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Shared\bin\Debug\netstandard2.1\ShoppingCartStarter.Shared.deps.json
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Shared\bin\Debug\netstandard2.1\ShoppingCartStarter.Shared.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Shared\bin\Debug\netstandard2.1\ShoppingCartStarter.Shared.pdb
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Shared\obj\Debug\netstandard2.1\ShoppingCartStarter.Shared.csprojAssemblyReference.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Shared\obj\Debug\netstandard2.1\ShoppingCartStarter.Shared.AssemblyInfoInputs.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Shared\obj\Debug\netstandard2.1\ShoppingCartStarter.Shared.AssemblyInfo.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Shared\obj\Debug\netstandard2.1\ShoppingCartStarter.Shared.csproj.CoreCompileInputs.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Shared\obj\Debug\netstandard2.1\ShoppingCartStarter.Shared.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Shared\obj\Debug\netstandard2.1\ShoppingCartStarter.Shared.pdb

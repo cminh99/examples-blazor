@@ -1,0 +1,32 @@
+﻿@page "/"
+@inherits IndexBase
+
+<div class="container">
+    <div class="row">
+        <div class="form-group mb-0">
+            <input
+                   type="text"
+                   class="form-control"
+                   id="search"
+                   placeholder="Type to search..."
+                   @bind-value="SearchTerm"
+                   @bind-value:event="oninput"
+            />
+        </div>
+    </div>
+    <hr />
+    @foreach (var p in SearchResults)
+    {
+        <div class="row border rounded py-4 mb-3">
+            <div class="col-sm">
+                <div class="media">
+                    <img src="@p.Image" class="mr-3" alt="@p.Title" />
+                    <div class="media-body">
+                        <h6>@p.Title</h6>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-2">$@p.Price</div>
+        </div>
+    }
+</div>

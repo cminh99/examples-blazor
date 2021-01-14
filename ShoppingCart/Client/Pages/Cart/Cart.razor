@@ -1,0 +1,16 @@
+﻿@page "/cart"
+@inherits CartBase
+
+<div class="d-flex justify-content-between align-items-center">
+    <h3>Your Shopping Cart</h3>
+    <h3>Total: <span class="text-danger">$@SubTotal</span></h3>
+</div>
+
+@if (Model != null)
+{
+    @foreach (var item in Model.Items)
+    {
+        @*<Item Details="@item" OnDeleted="RemoveItem" />*@
+        <Item Details="@item" OnDeleted="ReloadCart" OnQuantityChanged="ReloadCart" />
+    }
+}

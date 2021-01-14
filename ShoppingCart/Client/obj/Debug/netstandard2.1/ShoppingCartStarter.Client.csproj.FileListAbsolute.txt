@@ -1,0 +1,760 @@
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\ShoppingCartStarter.Client.StaticWebAssets.xml
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\ShoppingCartStarter.Client.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\ShoppingCartStarter.Client.pdb
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\ShoppingCartStarter.Client.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\ShoppingCartStarter.Client.pdb
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\ShoppingCartStarter.Client.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\ShoppingCartStarter.Client.pdb.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\MediatR.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Options.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Primitives.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\System.Buffers.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\System.Memory.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\System.Net.Http.Json.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\System.Text.Json.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\ShoppingCartStarter.Shared.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\ShoppingCartStarter.Shared.pdb
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.csprojAssemblyReference.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.AssemblyInfoInputs.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.AssemblyInfo.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.csproj.CoreCompileInputs.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.RazorComponent.input.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.RazorComponent.output.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\RazorDeclaration\ShoppingCartStarter.Client.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.TagHelpers.input.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.TagHelpers.output.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.RazorCoreGenerate.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\ycn-UHLnjC77BNvsurP4mkuYP8oud1oVyfSSlZKMymc=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\v4LhihP26fP-dVajppSCZIrCVbkiALCJgAisyG2cmJQ=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\e0FY4g2Vt8TsXfafkXU2XnUgcYzjzPiFqb3KCylDb74=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\jqp6xS5jDFDsISGorhiYZQ2if3hAiols6d4C5BNnMQ4=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\45ia6XmGIa5WI3cHUIE9KhVornlZleYW_B5FPpfD1wQ=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\sifIvl02zqfSiv67ZRAsSa_NCvhMgTGrIUNuK8LmCNM=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\8Y81cOKaNJHZZvHu0TROikruBOenBHdE5WwI2BOkNNE=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\hbEA2pdvgll2bWeJXCtehEV3kl3WFnBgQj6ttcesEA4=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\DG1MjidH81NA50uWH63eWmXLCxt18sJzoF2oXVlyvlY=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\iUTfpj7A29tIp2gl2fLM_w1MwyI8XMmUV8gFe_mJBZI=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\D1gbYUWxCdwEKvWRcGQoVikKs0zgWMUenGMDEaDRxrc=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\iqCTExKPC76hORseVGmhVc1uwSgrTDloPHWYiyzt36Q=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\rDxOhAkkG0rzM8mDToRsneyatLZ3m_OyLTXPRA81ZKw=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\ROy00p56saSEbyOGgwnu8op__-jeRfR6GYOOLp_fVw4=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\K3YFmrW2bw2nAvgBqWJvZD2KN9q1vRVzOyp6AOSojMo=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\X3n9B0GKwWD1R7H_6ydrvoazqRQrQRjS_NH5VG6VJNY=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\pzCorxTCjbUODF5JuRgcHc8gVYEdSaKD9NWA6wZhTPE=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\OBWh2or_2mU6elwqPfmL72FBZVKl2WzTJ4L-IrKeXM4=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\zNP4aHLW-rhi6gW72YV8xGy1rLa_RQZtwvWEpiwBSrs=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\oAIlpv09S-0jXnze744E1V88Oaw8Ql1x3Alw0hsVYdw=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\ShoppingCartStarter.Client.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\ShoppingCartStarter.Client.pdb.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\ShoppingCartStarter.Client.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\ShoppingCartStarter.Client.pdb.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\staticwebassets\ShoppingCartStarter.Client.StaticWebAssets.Manifest.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\staticwebassets\ShoppingCartStarter.Client.StaticWebAssets.xml
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\scopedcss\bundle\ShoppingCartStarter.Client.styles.css
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.RazorTargetAssemblyInfo.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.csproj.CopyComplete
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.pdb
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Cart\Cart.razor.g.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Cart\Item.razor.g.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\Razor\Pages\Cart\Cart.razor.g.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\Razor\Pages\Cart\Item.razor.g.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\ShoppingCartStarter.Shared.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\MediatR.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\ShoppingCartStarter.Shared.pdb
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\ShoppingCartStarter.Shared.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\MediatR.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\ShoppingCartStarter.Shared.pdb.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\dPeZNfy9UTfLKvd45wnu7MHwM3K2UZaAb75eiCNOT3g=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\dhVaOV7Ern47lXjww2WmoTMX6Prc972lYSF24fB8y-4=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\bJ1iF_hFwAKsWoO1-OtcSfi_r6ZfrZczEOWUEMFjWPc=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\ShoppingCartStarter.Shared.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\MediatR.dll.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\ShoppingCartStarter.Shared.pdb.gz
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\ShoppingCartStarter.Shared.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\MediatR.dll.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\ShoppingCartStarter.Shared.pdb.br
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Cart\Quantity.razor.g.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\Razor\Pages\Cart\Quantity.razor.g.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\9hYiuoo0rL0eawt09jCRk_F-6O567h_Ko8dXr-qfzU0=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\mDANmatXbma-vVBybkXRTDn5DBfIdUF6TbiPg-cRKlQ=.hash
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Client\obj\Debug\netstandard2.1\integrity\gnZGHNR52C0sAY5chPbUX92hXuK5KXt7y6bZf1htJJI=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.csprojAssemblyReference.cache
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.AssemblyInfoInputs.cache
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.AssemblyInfo.cs
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.csproj.CoreCompileInputs.cache
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.RazorComponent.input.cache
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Cart\Cart.razor.g.cs
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Cart\Item.razor.g.cs
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Cart\Quantity.razor.g.cs
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.RazorComponent.output.cache
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.pdb
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\ShoppingCartStarter.Client.StaticWebAssets.xml
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\ShoppingCartStarter.Client.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\ShoppingCartStarter.Client.pdb
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\ShoppingCartStarter.Client.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\ShoppingCartStarter.Shared.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\MediatR.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\ShoppingCartStarter.Client.pdb
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\ShoppingCartStarter.Shared.pdb
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\ShoppingCartStarter.Client.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\ShoppingCartStarter.Shared.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\MediatR.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\ShoppingCartStarter.Client.pdb.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\ShoppingCartStarter.Shared.pdb.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\MediatR.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Json.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Options.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Primitives.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.WebAssembly.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\System.Buffers.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\System.Memory.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\System.Net.Http.Json.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\System.Text.Json.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\ShoppingCartStarter.Shared.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\bin\Debug\netstandard2.1\ShoppingCartStarter.Shared.pdb
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\RazorDeclaration\ShoppingCartStarter.Client.dll
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.TagHelpers.input.cache
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.TagHelpers.output.cache
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.RazorCoreGenerate.cache
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\Razor\Pages\Cart\Cart.razor.g.cs
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\Razor\Pages\Cart\Item.razor.g.cs
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\Razor\Pages\Cart\Quantity.razor.g.cs
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\pzCorxTCjbUODF5JuRgcHc8gVYEdSaKD9NWA6wZhTPE=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\OBWh2or_2mU6elwqPfmL72FBZVKl2WzTJ4L-IrKeXM4=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\hbEA2pdvgll2bWeJXCtehEV3kl3WFnBgQj6ttcesEA4=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\ycn-UHLnjC77BNvsurP4mkuYP8oud1oVyfSSlZKMymc=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\v4LhihP26fP-dVajppSCZIrCVbkiALCJgAisyG2cmJQ=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\e0FY4g2Vt8TsXfafkXU2XnUgcYzjzPiFqb3KCylDb74=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\jqp6xS5jDFDsISGorhiYZQ2if3hAiols6d4C5BNnMQ4=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\45ia6XmGIa5WI3cHUIE9KhVornlZleYW_B5FPpfD1wQ=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\dPeZNfy9UTfLKvd45wnu7MHwM3K2UZaAb75eiCNOT3g=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\dhVaOV7Ern47lXjww2WmoTMX6Prc972lYSF24fB8y-4=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\sifIvl02zqfSiv67ZRAsSa_NCvhMgTGrIUNuK8LmCNM=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\8Y81cOKaNJHZZvHu0TROikruBOenBHdE5WwI2BOkNNE=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\DG1MjidH81NA50uWH63eWmXLCxt18sJzoF2oXVlyvlY=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\iUTfpj7A29tIp2gl2fLM_w1MwyI8XMmUV8gFe_mJBZI=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\D1gbYUWxCdwEKvWRcGQoVikKs0zgWMUenGMDEaDRxrc=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\iqCTExKPC76hORseVGmhVc1uwSgrTDloPHWYiyzt36Q=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\rDxOhAkkG0rzM8mDToRsneyatLZ3m_OyLTXPRA81ZKw=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\ROy00p56saSEbyOGgwnu8op__-jeRfR6GYOOLp_fVw4=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\K3YFmrW2bw2nAvgBqWJvZD2KN9q1vRVzOyp6AOSojMo=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\X3n9B0GKwWD1R7H_6ydrvoazqRQrQRjS_NH5VG6VJNY=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\zNP4aHLW-rhi6gW72YV8xGy1rLa_RQZtwvWEpiwBSrs=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\oAIlpv09S-0jXnze744E1V88Oaw8Ql1x3Alw0hsVYdw=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\bJ1iF_hFwAKsWoO1-OtcSfi_r6ZfrZczEOWUEMFjWPc=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\ShoppingCartStarter.Client.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\ShoppingCartStarter.Shared.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\MediatR.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\ShoppingCartStarter.Client.pdb.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\ShoppingCartStarter.Shared.pdb.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.gz
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\ShoppingCartStarter.Client.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\ShoppingCartStarter.Shared.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\MediatR.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\ShoppingCartStarter.Client.pdb.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\ShoppingCartStarter.Shared.pdb.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.br
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\staticwebassets\ShoppingCartStarter.Client.StaticWebAssets.Manifest.cache
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\staticwebassets\ShoppingCartStarter.Client.StaticWebAssets.xml
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\scopedcss\bundle\ShoppingCartStarter.Client.styles.css
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.RazorTargetAssemblyInfo.cache
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\ShoppingCartStarter.Client.csproj.CopyComplete
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\4DJtVkqepTCgDe1Iue1GvT66k_vSKLZ_5Xb_TyT8TDA=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\pTbUDouDiNkAztU1AGct3OU-p45F-mykIuB8ip1Niuw=.hash
+D:\blazor fw\thuc tap\ShoppingCart\Client\obj\Debug\netstandard2.1\integrity\-aYuKgUL_Qowr5SQXkg_9-8nfQw45rbkeJY0vAGqLwo=.hash

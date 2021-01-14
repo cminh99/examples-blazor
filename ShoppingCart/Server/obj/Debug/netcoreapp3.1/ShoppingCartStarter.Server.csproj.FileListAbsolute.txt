@@ -1,0 +1,258 @@
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Client.StaticWebAssets.xml
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Server.StaticWebAssets.xml
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Server.exe
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Server.deps.json
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Server.runtimeconfig.json
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Server.runtimeconfig.dev.json
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Server.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Server.pdb
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Server.Views.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Server.Views.pdb
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Client.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Shared.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Client.pdb
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Shared.pdb
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.csprojAssemblyReference.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.AssemblyInfoInputs.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.AssemblyInfo.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.csproj.CoreCompileInputs.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.RazorAssemblyInfo.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.RazorAssemblyInfo.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingCartStarter.Server.StaticWebAssets.Manifest.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingCartStarter.Server.StaticWebAssets.xml
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\ShoppingCartStarter.Server.styles.css
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.TagHelpers.input.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.TagHelpers.output.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.RazorCoreGenerate.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.RazorTargetAssemblyInfo.cache
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.RazorTargetAssemblyInfo.cs
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.Views.pdb
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.csproj.CopyComplete
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.dll
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.pdb
+C:\Users\cm\Downloads\shopping-cart-blazor-wasm-master\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.genruntimeconfig.cache
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\appsettings.json
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Client.StaticWebAssets.xml
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Server.StaticWebAssets.xml
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Server.exe
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Server.deps.json
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Server.runtimeconfig.json
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Server.runtimeconfig.dev.json
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Server.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Server.pdb
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Server.Views.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Server.Views.pdb
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Client.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Shared.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Client.pdb
+D:\blazor fw\thuc tap\ShoppingCart\Server\bin\Debug\netcoreapp3.1\ShoppingCartStarter.Shared.pdb
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.csprojAssemblyReference.cache
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.AssemblyInfoInputs.cache
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.AssemblyInfo.cs
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.csproj.CoreCompileInputs.cache
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.RazorAssemblyInfo.cache
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.RazorAssemblyInfo.cs
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingCartStarter.Server.StaticWebAssets.Manifest.cache
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingCartStarter.Server.StaticWebAssets.xml
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\ShoppingCartStarter.Server.styles.css
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.TagHelpers.input.cache
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.TagHelpers.output.cache
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.RazorCoreGenerate.cache
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.RazorTargetAssemblyInfo.cache
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.RazorTargetAssemblyInfo.cs
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.Views.pdb
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.csproj.CopyComplete
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.dll
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.pdb
+D:\blazor fw\thuc tap\ShoppingCart\Server\obj\Debug\netcoreapp3.1\ShoppingCartStarter.Server.genruntimeconfig.cache

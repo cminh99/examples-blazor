@@ -1,0 +1,20 @@
+﻿@inherits ItemBase
+
+<div class="row border py-4">
+    <div class="col-sm">
+        <div class="media">
+            <img src="/images/@Details.Image" class="mr-3" alt="@Details.Name" />
+            <div class="media-body">
+                <h3>@Details.Name</h3>
+                <div class="form-inline">
+                    <label for="qty" class="mr-2">Qty</label>
+                    <Quantity Value="Details.Quantity" ValueChanged="QuantityChanged" />
+                    <button class="btn btn-sm btn-outline-danger" @onclick="HandleDelete">Delete</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-2">
+        $@Details.Price
+    </div>
+</div>
