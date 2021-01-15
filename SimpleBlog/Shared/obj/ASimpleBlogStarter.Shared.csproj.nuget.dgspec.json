@@ -44,6 +44,10 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.4.0, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[8.0.0, )"

@@ -1,0 +1,19 @@
+﻿@page "/posts"
+@inherits ListBase
+
+    <div class="d-flex justify-content-between align-items-center">
+        <h1>Every Post Ever </h1>
+        <AuthorizeView Roles="admin">
+            <a class="btn btn-primary" href="/posts/add"><i class="oi oi-plus"></i></a>
+        </AuthorizeView>
+    </div>
+
+@if (Model != null)
+{
+    <ul>
+        @foreach (var post in Model.Posts)
+        {
+            <li><a href="/post/@post.Slug">@post.Title</a></li>
+        }
+    </ul>
+}

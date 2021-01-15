@@ -1,0 +1,46 @@
+﻿@page "/posts/add"
+@inherits AddPostBase
+@using Blazored.FluentValidation
+@using Markdig
+@using Microsoft.AspNetCore.Authorization
+@attribute [Authorize(Roles = "admin")]
+
+<style>
+    .content-wrapper, .preview-wrapper { height: 256px; max-height: 256px; }
+    .t_area { resize: none; }
+</style>
+
+<div class="container">
+    <h3>Add new post</h3>
+
+    <EditForm Model="Command" OnValidSubmit="HandleFormSubmit">
+        <FluentValidationValidator />
+
+        <div class="form-group">
+            <label for="title">Title</label>
+            <InputText class="form-control" id="title" @bind-Value="Command.Title" />
+        </div>
+        <div class="form-group">
+            <label for="slug">Slug</label>
+            <InputText class="form-control" id="slug" @bind-Value="Command.Slug" />
+        </div>
+        <div class="row">
+            <div class="col-lg-6 mb-sm-3">
+                <label for="body">Content</label>
+                <div class="content-wrapper">
+                    <textarea class="form-control h-100 t_area" @bind-Value="Command.Body" @bind-Value:event="oninput"></textarea>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <label>Preview</label>
+                <div class="preview-wrapper border rounded px-3 py-1 text-dark">
+                    @((MarkupString)Preview)
+                </div>
+            </div>
+        </div>
+        <div class="d-flex justify-content-between align-items-center my-3">
+            <div><ValidationSummary /></div>
+            <button type="submit" class="btn btn-primary">Publish</button>
+        </div>
+    </EditForm>
+</div>

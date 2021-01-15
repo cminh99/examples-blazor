@@ -1,0 +1,14 @@
+﻿@page "/post/{slug}"
+@inherits PostBase
+
+<div class="d-flex justify-content-between align-items-center">
+    <h1>@Model.Title</h1>
+    <AuthorizeView Roles="admin">
+        <button class="btn btn-primary" @onclick="NavigateToEditPost">
+            <i class="oi oi-pencil"></i>
+        </button>
+    </AuthorizeView>
+</div>
+<div class="">
+    @((MarkupString)Model.Body)
+</div>

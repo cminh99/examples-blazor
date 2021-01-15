@@ -13,77 +13,77 @@ namespace ASimpleBlogStarter.Client.Pages
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Client\_Imports.razor"
+#line 1 "D:\blazor fw\thuc tap\SimpleBlog\Client\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Client\_Imports.razor"
+#line 2 "D:\blazor fw\thuc tap\SimpleBlog\Client\_Imports.razor"
 using System.Net.Http.Json;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Client\_Imports.razor"
+#line 3 "D:\blazor fw\thuc tap\SimpleBlog\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Client\_Imports.razor"
+#line 4 "D:\blazor fw\thuc tap\SimpleBlog\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Client\_Imports.razor"
+#line 5 "D:\blazor fw\thuc tap\SimpleBlog\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Client\_Imports.razor"
+#line 6 "D:\blazor fw\thuc tap\SimpleBlog\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Client\_Imports.razor"
+#line 7 "D:\blazor fw\thuc tap\SimpleBlog\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.WebAssembly.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Client\_Imports.razor"
+#line 8 "D:\blazor fw\thuc tap\SimpleBlog\Client\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Client\_Imports.razor"
+#line 9 "D:\blazor fw\thuc tap\SimpleBlog\Client\_Imports.razor"
 using ASimpleBlogStarter.Client;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Client\_Imports.razor"
+#line 10 "D:\blazor fw\thuc tap\SimpleBlog\Client\_Imports.razor"
 using ASimpleBlogStarter.Client.Shared;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Client\Pages\Authentication.razor"
+#line 2 "D:\blazor fw\thuc tap\SimpleBlog\Client\Pages\Authentication.razor"
 using Microsoft.AspNetCore.Components.WebAssembly.Authentication;
 
 #line default
@@ -98,7 +98,7 @@ using Microsoft.AspNetCore.Components.WebAssembly.Authentication;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 5 "C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Client\Pages\Authentication.razor"
+#line 5 "D:\blazor fw\thuc tap\SimpleBlog\Client\Pages\Authentication.razor"
       
     [Parameter] public string Action { get; set; }
 

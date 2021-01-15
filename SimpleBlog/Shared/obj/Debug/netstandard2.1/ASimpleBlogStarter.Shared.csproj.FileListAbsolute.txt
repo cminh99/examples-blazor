@@ -7,3 +7,12 @@ C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Shared\obj\Debug\netstand
 C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Shared\obj\Debug\netstandard2.1\ASimpleBlogStarter.Shared.csproj.CoreCompileInputs.cache
 C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Shared\obj\Debug\netstandard2.1\ASimpleBlogStarter.Shared.dll
 C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Shared\obj\Debug\netstandard2.1\ASimpleBlogStarter.Shared.pdb
+D:\blazor fw\thuc tap\SimpleBlog\Shared\bin\Debug\netstandard2.1\ASimpleBlogStarter.Shared.deps.json
+D:\blazor fw\thuc tap\SimpleBlog\Shared\bin\Debug\netstandard2.1\ASimpleBlogStarter.Shared.dll
+D:\blazor fw\thuc tap\SimpleBlog\Shared\bin\Debug\netstandard2.1\ASimpleBlogStarter.Shared.pdb
+D:\blazor fw\thuc tap\SimpleBlog\Shared\obj\Debug\netstandard2.1\ASimpleBlogStarter.Shared.csprojAssemblyReference.cache
+D:\blazor fw\thuc tap\SimpleBlog\Shared\obj\Debug\netstandard2.1\ASimpleBlogStarter.Shared.AssemblyInfoInputs.cache
+D:\blazor fw\thuc tap\SimpleBlog\Shared\obj\Debug\netstandard2.1\ASimpleBlogStarter.Shared.AssemblyInfo.cs
+D:\blazor fw\thuc tap\SimpleBlog\Shared\obj\Debug\netstandard2.1\ASimpleBlogStarter.Shared.csproj.CoreCompileInputs.cache
+D:\blazor fw\thuc tap\SimpleBlog\Shared\obj\Debug\netstandard2.1\ASimpleBlogStarter.Shared.dll
+D:\blazor fw\thuc tap\SimpleBlog\Shared\obj\Debug\netstandard2.1\ASimpleBlogStarter.Shared.pdb

@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using ASimpleBlogStarter.Client.Shared;
+using ASimpleBlogStarter.Shared.Post;
 
 namespace ASimpleBlogStarter.Client
 {
@@ -30,6 +32,8 @@ namespace ASimpleBlogStarter.Client
                 sp.GetRequiredService<IHttpClientFactory>().CreateClient("ASimpleBlogStarter.ServerAPI"));
 
             builder.Services.AddApiAuthorization();
+
+            builder.Services.AddTransient<ISlugValidator, SlugValidator>();
 
             await builder.Build().RunAsync();
         }
