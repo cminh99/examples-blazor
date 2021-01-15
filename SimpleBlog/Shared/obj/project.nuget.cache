@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xEABxbw2VzOnZ6M/RxeEkqWVuLCn3sAOY4TiWjuMUvD6JubsgvHNodi5Nj8G2AHY1MLpBw2gJEk4pK2q1eBRkw==",
+  "success": true,
+  "projectFilePath": "D:\\blazor fw\\thuc tap\\SimpleBlog\\Shared\\ASimpleBlogStarter.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cm\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

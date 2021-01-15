@@ -1,0 +1,9 @@
+C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Shared\bin\Debug\netstandard2.1\ASimpleBlogStarter.Shared.deps.json
+C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Shared\bin\Debug\netstandard2.1\ASimpleBlogStarter.Shared.dll
+C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Shared\bin\Debug\netstandard2.1\ASimpleBlogStarter.Shared.pdb
+C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Shared\obj\Debug\netstandard2.1\ASimpleBlogStarter.Shared.csprojAssemblyReference.cache
+C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Shared\obj\Debug\netstandard2.1\ASimpleBlogStarter.Shared.AssemblyInfoInputs.cache
+C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Shared\obj\Debug\netstandard2.1\ASimpleBlogStarter.Shared.AssemblyInfo.cs
+C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Shared\obj\Debug\netstandard2.1\ASimpleBlogStarter.Shared.csproj.CoreCompileInputs.cache
+C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Shared\obj\Debug\netstandard2.1\ASimpleBlogStarter.Shared.dll
+C:\Users\cm\Downloads\a-simple-blog-blazor-wasm-master\Shared\obj\Debug\netstandard2.1\ASimpleBlogStarter.Shared.pdb
