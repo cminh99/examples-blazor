@@ -1,0 +1,50 @@
+﻿@page "/pomodoro"
+@implements IDisposable
+@using System.Threading
+
+<h1>Pomodoro</h1>
+
+<div class="mt-4 py-4 text-center border rounded">
+    <div class="display-4">@formattedTimer</div>
+    <div class="mt-4">
+        <button class="btn btn-sm btn-success" @onclick=Start>Start</button>
+        <button class="btn btn-sm btn-primary" @onclick=Reset>Reset</button>
+        <button class="btn btn-sm btn-secondary" @onclick=Stop>Stop</button>
+    </div>
+</div>
+
+@code {
+    private int totalTime = 25 * 60;
+    private Timer timer;
+
+    private string formattedTimer => TimeSpan.FromSeconds(totalTime).ToString(@"mm\:ss");
+
+    private void Start()
+    {
+        timer?.Dispose();
+        timer = new Timer(_ =>
+        {
+            if (totalTime > 0)
+            {
+                totalTime -= 1;
+                InvokeAsync(StateHasChanged);
+            }
+        }, null, 0, 1000);
+    }
+
+    private void Reset()
+    {
+        timer?.Dispose();
+        totalTime = 25 * 60;
+    }
+
+    private void Stop()
+    {
+        timer?.Dispose();
+    }
+
+    public void Dispose()
+    {
+        timer?.Dispose();
+    }
+}
