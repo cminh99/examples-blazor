@@ -1,0 +1,28 @@
+﻿@page "/pomodoro"
+@inherits PomodoroClockBase
+
+<style>
+    .btn { width: 96px; }
+</style>
+
+<h1>Pomodoro</h1>
+
+<div class="mt-4 py-4 text-center border rounded">
+    <h1 class="display-1" style="color: @ChangeColor();">
+        @formattedTimer
+    </h1>
+    <div class="mt-4">
+        <button class="btn btn-sm btn-success" disabled=@isStart @onclick=Start>
+            Start
+        </button>
+        <button class="btn btn-sm btn-warning" disabled=@isResume  @onclick=Resume>
+            Resume
+        </button>
+        <button class="btn btn-sm btn-secondary" disabled=@isReset @onclick=Reset>
+            Reset
+        </button>
+        <button class="btn btn-sm btn-primary" disabled=@isStop @onclick=Stop>
+            Stop
+        </button>
+    </div>
+</div>

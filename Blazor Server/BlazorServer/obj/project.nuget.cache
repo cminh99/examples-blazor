@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/WyuWR+50LXc6tff3he6wcTq6PuqLL1YeXz0F2saJkaghZ5Zof4riE9tCHLWk5fVp0ybL5TRwTXczM4vJ5xu+g==",
+  "dgSpecHash": "yBg+RHwqSsEpR9+IHeVcWKC+CAuKPnLm3WKPLMpbPnWahDNUx6cqJwoso44LFpHLBkqZt87og4UtXbMTdJCDFg==",
   "success": true,
-  "projectFilePath": "D:\\blazor fw\\example\\Blazor Server\\BlazorServer\\BlazorServer.csproj",
+  "projectFilePath": "D:\\Thuc tap\\Source code [Git-Github]\\Blazor Server\\BlazorServer\\BlazorServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

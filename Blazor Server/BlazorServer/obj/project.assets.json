@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\blazor fw\\example\\Blazor Server\\BlazorServer\\BlazorServer.csproj",
+      "projectUniqueName": "D:\\Thuc tap\\Source code [Git-Github]\\Blazor Server\\BlazorServer\\BlazorServer.csproj",
       "projectName": "BlazorServer",
-      "projectPath": "D:\\blazor fw\\example\\Blazor Server\\BlazorServer\\BlazorServer.csproj",
+      "projectPath": "D:\\Thuc tap\\Source code [Git-Github]\\Blazor Server\\BlazorServer\\BlazorServer.csproj",
       "packagesPath": "C:\\Users\\cm\\.nuget\\packages\\",
-      "outputPath": "D:\\blazor fw\\example\\Blazor Server\\BlazorServer\\obj\\",
+      "outputPath": "D:\\Thuc tap\\Source code [Git-Github]\\Blazor Server\\BlazorServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,0 +1,51 @@
+﻿@using BlazorServer.Domain
+
+<div class="card">
+    <div class="card-header d-flex justify-content-between align-items-center">
+        <div class="">
+            <span class="text-black mr-2">
+                <Username Name=@Details.PostedBy />
+            </span>
+            <span class="text-muted">
+                <Time Value=@Details.PostedOn />
+            </span>
+        </div>
+        <div class="">
+            <button class="btn btn-sm rounded-circle" >
+                <i class="oi oi-pencil" data-bs-toggle="modal" data-bs-target="#exampleModal"></i>
+            </button>
+        </div>
+    </div>
+    <div class="card-body">
+        <MessageText Message=@Details.Message />
+    </div>
+</div>
+
+<div class="modal fade" id="exampleModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Edit Message</h5>
+                <button type="button" class="btn-close"></button>
+            </div>
+            <div class="modal-body">Body CONtent</div>
+        </div>
+    </div>
+</div>
+
+@code {
+    public bool clickToOpen { get; set; } = false;
+
+    [Parameter]
+    public SlackMessage Details { get; set; }
+
+    [Parameter]
+    public EventCallback<bool> OnClick { get; set; }
+
+    private async Task OpenModal()
+
+    {
+        clickToOpen = true;
+        await OnClick.InvokeAsync(clickToOpen);
+    }
+} 
