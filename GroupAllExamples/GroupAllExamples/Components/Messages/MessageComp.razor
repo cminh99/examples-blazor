@@ -1,0 +1,77 @@
+﻿@using GroupAllExamples.Models
+@using GroupAllExamples.Components.EditMessagesDialog
+@using GroupAllExamples.Components.Messages
+@using GroupAllExamples.Services
+
+<div class="card mb-2">
+    <div class="card-body">
+        <div class="row mb-2">
+            <div class="col d-flex justify-content-between align-items-center">
+                <div>
+                    <UsernameComp Name="@Details.PostedBy" />
+                    <TimeComp Value="@Details.PostedOn" />
+                </div>
+                <MudIconButton OnClick="EditMessage" 
+                               Size="Size.Small" 
+                               Icon="@Icons.Material.Edit" 
+                               Color="Color.Dark">
+                </MudIconButton>
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <div class="col-md-10">
+                <MessageTextComp Message="@Details.Message" />
+            </div>
+            <div class="col-2 text-right">
+                @if (Details.Like != 0 || Details.Like.Equals(null))
+                {
+                    <span>@Details.Like</span>
+                }
+                <MudIconButton OnClick="HandleLike" 
+                               Size="Size.Small"
+                               Icon="@Icons.Material.Favorite"
+                               Color=@(isLike)>
+                </MudIconButton>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    [CascadingParameter]
+    private MudDialogInstance MudDialog { get; set; }
+
+    [Inject]
+    private IDialogService Dialog { get; set; }
+
+    [Inject]
+    private SlackServices SlackService { get; set; }
+
+    [Parameter]
+    public SlackMessage Details { get; set; }
+
+    private Color isLike = Color.Default;
+
+    protected async Task EditMessage()
+    {
+        var parameters = new DialogParameters();
+        parameters.Add("Message", Details.Message);
+        parameters.Add("PostedBy", Details.PostedBy);
+
+        var dialog = Dialog.Show<EditDialogComp>("Edit message", parameters);
+        var result = await dialog.Result;
+
+        if (!result.Cancelled)
+        {
+            Details.Message = result.Data.ToString();
+            await SlackService.UpdateMessage(Details.Id, Details);
+        }
+    }
+
+    protected async Task HandleLike()
+    {
+        isLike = Color.Secondary;
+        Details.Like++;
+        await SlackService.UpdateMessage(Details.Id, Details);
+    }
+}

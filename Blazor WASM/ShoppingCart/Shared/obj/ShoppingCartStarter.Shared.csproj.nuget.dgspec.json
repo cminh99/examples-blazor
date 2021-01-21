@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\blazor fw\\thuc tap\\ShoppingCart\\Shared\\ShoppingCartStarter.Shared.csproj": {}
+    "D:\\Thuc tap\\Examples Blazor\\Blazor WASM\\ShoppingCart\\Shared\\ShoppingCartStarter.Shared.csproj": {}
   },
   "projects": {
-    "D:\\blazor fw\\thuc tap\\ShoppingCart\\Shared\\ShoppingCartStarter.Shared.csproj": {
+    "D:\\Thuc tap\\Examples Blazor\\Blazor WASM\\ShoppingCart\\Shared\\ShoppingCartStarter.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\blazor fw\\thuc tap\\ShoppingCart\\Shared\\ShoppingCartStarter.Shared.csproj",
+        "projectUniqueName": "D:\\Thuc tap\\Examples Blazor\\Blazor WASM\\ShoppingCart\\Shared\\ShoppingCartStarter.Shared.csproj",
         "projectName": "ShoppingCartStarter.Shared",
-        "projectPath": "D:\\blazor fw\\thuc tap\\ShoppingCart\\Shared\\ShoppingCartStarter.Shared.csproj",
+        "projectPath": "D:\\Thuc tap\\Examples Blazor\\Blazor WASM\\ShoppingCart\\Shared\\ShoppingCartStarter.Shared.csproj",
         "packagesPath": "C:\\Users\\cm\\.nuget\\packages\\",
-        "outputPath": "D:\\blazor fw\\thuc tap\\ShoppingCart\\Shared\\obj\\",
+        "outputPath": "D:\\Thuc tap\\Examples Blazor\\Blazor WASM\\ShoppingCart\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

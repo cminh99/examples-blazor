@@ -5636,11 +5636,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\blazor fw\\thuc tap\\ShoppingCart\\Server\\ShoppingCartStarter.Server.csproj",
+      "projectUniqueName": "D:\\Thuc tap\\Examples Blazor\\Blazor WASM\\ShoppingCart\\Server\\ShoppingCartStarter.Server.csproj",
       "projectName": "ShoppingCartStarter.Server",
-      "projectPath": "D:\\blazor fw\\thuc tap\\ShoppingCart\\Server\\ShoppingCartStarter.Server.csproj",
+      "projectPath": "D:\\Thuc tap\\Examples Blazor\\Blazor WASM\\ShoppingCart\\Server\\ShoppingCartStarter.Server.csproj",
       "packagesPath": "C:\\Users\\cm\\.nuget\\packages\\",
-      "outputPath": "D:\\blazor fw\\thuc tap\\ShoppingCart\\Server\\obj\\",
+      "outputPath": "D:\\Thuc tap\\Examples Blazor\\Blazor WASM\\ShoppingCart\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5661,11 +5661,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\blazor fw\\thuc tap\\ShoppingCart\\Client\\ShoppingCartStarter.Client.csproj": {
-              "projectPath": "D:\\blazor fw\\thuc tap\\ShoppingCart\\Client\\ShoppingCartStarter.Client.csproj"
+            "D:\\Thuc tap\\Examples Blazor\\Blazor WASM\\ShoppingCart\\Client\\ShoppingCartStarter.Client.csproj": {
+              "projectPath": "D:\\Thuc tap\\Examples Blazor\\Blazor WASM\\ShoppingCart\\Client\\ShoppingCartStarter.Client.csproj"
             },
-            "D:\\blazor fw\\thuc tap\\ShoppingCart\\Shared\\ShoppingCartStarter.Shared.csproj": {
-              "projectPath": "D:\\blazor fw\\thuc tap\\ShoppingCart\\Shared\\ShoppingCartStarter.Shared.csproj"
+            "D:\\Thuc tap\\Examples Blazor\\Blazor WASM\\ShoppingCart\\Shared\\ShoppingCartStarter.Shared.csproj": {
+              "projectPath": "D:\\Thuc tap\\Examples Blazor\\Blazor WASM\\ShoppingCart\\Shared\\ShoppingCartStarter.Shared.csproj"
             }
           }
         }
@@ -5723,7 +5723,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

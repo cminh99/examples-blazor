@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="D:\Thuc tap\Examples Blazor\GroupAllExamples\GroupAllExamples\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/MudBlazor" Path="C:\Users\cm\.nuget\packages\mudblazor\1.2.4\build\..\staticwebassets\" />
+</StaticWebAssets>

@@ -1,0 +1,26 @@
+﻿@using GroupAllExamples.Models
+@using GroupAllExamples.Components.Cart
+
+<MudDialog>
+    <DialogContent>
+        <h5 class="py-4 text-black-50">Do you want to delete this item?</h5>
+        <div>
+            <ItemComp Item="@Item" DisabledSelect="true" CssClassForButtonDelete="display: none;" />
+        </div>
+    </DialogContent>
+    <DialogActions>
+        <MudButton OnClick="Cancel">Cancel</MudButton>
+        <MudButton Color="Color.Primary" OnClick="DeleteItem">Ok</MudButton>
+    </DialogActions>
+</MudDialog>
+
+@code {
+    [CascadingParameter]
+    MudDialogInstance MudDialog { get; set; }
+
+    [Parameter]
+    public CartItem Item { get; set; }
+
+    protected void Cancel() => MudDialog.Cancel();
+    protected void DeleteItem() => MudDialog.Close(DialogResult.Ok(true));
+}

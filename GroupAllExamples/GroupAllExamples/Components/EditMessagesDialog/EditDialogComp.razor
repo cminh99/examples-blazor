@@ -1,0 +1,39 @@
+﻿@using GroupAllExamples.Models
+
+<MudDialog>
+    <DialogContent>
+        <MudGrid>
+            <MudItem xs="12" md="4">
+                <MudTextField @bind-Value="PostedBy" 
+                              Label="Your name" 
+                              Variant="Variant.Outlined" 
+                              Disabled="true">
+                </MudTextField>
+            </MudItem>
+            <MudItem xs="12" md="8">
+                <MudTextField @bind-Value="Message" 
+                              Label="Your message" 
+                              Variant="Variant.Outlined">
+                </MudTextField>
+            </MudItem>
+        </MudGrid>
+    </DialogContent>
+    <DialogActions>
+        <MudButton OnClick="Cancel">Cancel</MudButton>
+        <MudButton OnClick="Update" Color="Color.Primary">Update</MudButton>
+    </DialogActions>
+</MudDialog>
+
+@code {
+    [CascadingParameter]
+    private MudDialogInstance MudDialog { get; set; }
+
+    [Parameter]
+    public string Message { get; set; }
+
+    [Parameter]
+    public string PostedBy { get; set; }
+
+    protected void Update() => MudDialog.Close(DialogResult.Ok(Message));
+    protected void Cancel() => MudDialog.Cancel();
+}

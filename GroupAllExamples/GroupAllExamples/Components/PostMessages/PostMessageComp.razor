@@ -1,0 +1,43 @@
+﻿@using GroupAllExamples.Models
+
+<div class="card my-3">
+    <div class="card-body">
+        <MudGrid>
+            <MudItem xs="12" md="4">
+                <MudTextField @bind-Value="NewMessage.PostedBy" Label="Your name" Variant="Variant.Outlined"></MudTextField>
+            </MudItem>
+            <MudItem xs="12" md="8">
+                <MudTextField @bind-Value="NewMessage.Message" Label="Your message" Variant="Variant.Outlined"></MudTextField>
+            </MudItem>
+        </MudGrid>
+        <div class="mt-4 d-flex justify-content-between align-items-lg-center">
+            <span class="text-danger">@Warning</span>
+            <MudButton Variant="Variant.Filled" Color="Color.Dark" @onclick="HandleFormSubmit">
+                Publish
+            </MudButton>
+        </div>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public EventCallback<SlackMessage> OnPosted { get; set; }
+    public SlackMessage NewMessage { get; set; } = new SlackMessage();
+
+    private string Warning;
+
+    private async Task HandleFormSubmit()
+    {
+        if (string.IsNullOrEmpty(NewMessage.Message) || string.IsNullOrEmpty(NewMessage.PostedBy))
+        {
+            Warning = "* Please enter your Name and Message!";
+            return;
+        }
+
+        Warning = "";
+        NewMessage.PostedOn = DateTime.Now;
+        await OnPosted.InvokeAsync(NewMessage);
+
+        NewMessage = new SlackMessage();
+    }
+}

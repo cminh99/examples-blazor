@@ -1,0 +1,80 @@
+﻿@using GroupAllExamples.Models
+@using GroupAllExamples.Services
+
+<div class="card mb-3">
+    <div class="card-body">
+        <div class="row">
+            <div class="col-sm-10">
+                <div class="media">
+                    <img src="@Item.Image" class="mr-3" alt="@Item.Name" width="80" height="80" />
+                    <div class="media-body">
+                        <h3>@Item.Name</h3>
+                        <div class="form-inline pt-1">
+                            <label for="qty" class="mr-2">Qty</label>
+                            <QuantityComp Value="@Item.Quantity" ValueChanged="QuantityChanged" Disabled="DisabledSelect" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-2 text-right">
+                <h5>$ @Item.Price</h5>
+                <MudIconButton Icon="@Icons.Material.Delete" 
+                               Style="@CssClassForButtonDelete" 
+                               OnClick="@((e) => OnDeleteClicked(maxWidthOption))">
+                </MudIconButton>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public string CssClassForButtonDelete { get; set; }
+
+    [Parameter]
+    public bool DisabledSelect { get; set; }
+
+    [Parameter]
+    public CartItem Item { get; set; }
+
+    [Parameter]
+    public EventCallback OnQuantityChanged { get; set; }
+
+    [Parameter]
+    public EventCallback<CartItem> OnItemDeleted { get; set; }
+
+    [Inject]
+    private CartServices cartServices { get; set; }
+
+    [Inject]
+    private IDialogService Dialog { get; set; }
+
+    protected DialogOptions maxWidthOption = new DialogOptions()
+    {
+        MaxWidth = MaxWidth.Medium,
+        FullWidth = true
+    };
+
+    protected async Task QuantityChanged(int value)
+    {
+        await cartServices.UpdateItemQuantity(Item.Id, value);
+        await OnQuantityChanged.InvokeAsync(EventArgs.Empty);
+    }
+
+    protected async Task OnDeleteClicked(DialogOptions options)
+    {
+        //await cartServices.DeleteItem(Item.Id);
+
+
+        var parameters = new DialogParameters();
+        parameters.Add("Item", Item);
+        var dialog = Dialog.Show<ConfirmDialog>("Confirm deletion", parameters, maxWidthOption);
+        var result = await dialog.Result;
+
+        if (!result.Cancelled)
+        {
+            await cartServices.DeleteItem(Item.Id);
+            await OnItemDeleted.InvokeAsync(Item);
+        }
+    }
+} 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c72EIGbhEmRvYUTwkAixYPUYpglD4VGh+Y4q1+rrVJOhgpN2of9n9hPWgr8ethK+TAUF3Kt2C8hdsKPO+jUGXA==",
+  "dgSpecHash": "ii7Ej6JzZzDts9aWJc1z3aE7eb/WUjoXIqjncxat3HthconLYbKBwGRH8HHb70H6TIbcjSfJJDr8kTOOvi7ZAA==",
   "success": true,
-  "projectFilePath": "D:\\blazor fw\\thuc tap\\ShoppingCart\\Server\\ShoppingCartStarter.Server.csproj",
+  "projectFilePath": "D:\\Thuc tap\\Examples Blazor\\Blazor WASM\\ShoppingCart\\Server\\ShoppingCartStarter.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cm\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
     "C:\\Users\\cm\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.0\\mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",

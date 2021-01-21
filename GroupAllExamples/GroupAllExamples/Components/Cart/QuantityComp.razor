@@ -1,0 +1,24 @@
+﻿<select class="form-control form-control-sm" value="@Value" disabled="@Disabled" @onchange="OnChange">
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+</select>
+
+@code {
+    [Parameter]
+    public int Value { get; set; }
+    
+    [Parameter]
+    public bool Disabled { get; set; }
+
+    [Parameter]
+    public EventCallback<int> ValueChanged { get; set; }
+
+    protected Task OnChange(ChangeEventArgs e)
+    {
+        Value = Convert.ToInt32(e.Value);
+        return ValueChanged.InvokeAsync(Value);
+    }
+}

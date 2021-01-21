@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xaPgqRI6yX9lu3RVTUgzFLPP62qtoJSN/JHaQNtl7pqog+hKLU5wppOohLdTmXg3T7klOudSkxYWTrshP2yTzw==",
+  "dgSpecHash": "caKFWGQ2USow9ZGITIGF6RhM1+1tVXFaks27rxqSFAxCxGZzbZFZ8soU/cZK8p8YzZIEc7q8e+TjzH1+ffJoZw==",
   "success": true,
-  "projectFilePath": "D:\\blazor fw\\thuc tap\\ShoppingCart\\Client\\ShoppingCartStarter.Client.csproj",
+  "projectFilePath": "D:\\Thuc tap\\Examples Blazor\\Blazor WASM\\ShoppingCart\\Client\\ShoppingCartStarter.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cm\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
     "C:\\Users\\cm\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.3\\microsoft.aspnetcore.authorization.3.1.3.nupkg.sha512",

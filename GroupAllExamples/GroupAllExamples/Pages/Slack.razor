@@ -1,0 +1,36 @@
+﻿@page "/slack"
+@using GroupAllExamples.Components.Messages
+@using GroupAllExamples.Components.PostMessages
+@using GroupAllExamples.Models
+@using GroupAllExamples.Services
+
+<h1>Slack Clone</h1>
+
+<PostMessageComp OnPosted="HandleNewMessage" />
+<hr />
+<h3>Messages</h3>
+
+@if (Messages != null)
+{
+    @foreach (var message in Messages)
+    {
+        <MessageComp @key="message" Details="@message" />
+    }
+}
+
+@code {
+    private List<SlackMessage> Messages;
+
+    [Inject]
+    private SlackServices slackServices { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Messages = await slackServices.GetMessages();
+    }
+
+    protected async Task HandleNewMessage(SlackMessage message)
+    {
+        Messages.Add( await slackServices.AddMessage(message));
+    }
+}

@@ -1,0 +1,67 @@
+﻿@page "/cart"
+@using GroupAllExamples.Components.Cart
+@using GroupAllExamples.Services
+@using GroupAllExamples.Models
+
+<div class="row align-items-center">
+    <div class="col-md-4">
+        <MudTextField @bind-Value="@searchKey"
+                      Immediate="true"
+                      Label="Type to search..."
+                      Variant="Variant.Outlined"
+                      Adornment="Adornment.End"
+                      AdornmentIcon="@Filled.Search"
+                      Margin="Margin.Dense">
+        </MudTextField>
+    </div>
+    <div class="col-md-8 pt-2 text-right">
+        <h3>Total: $ <b>@SubTotal</b></h3>
+    </div>
+</div>
+
+<hr />
+
+@if (Items != null)
+{
+    @foreach (var item in SearchResult)
+    {
+        <ItemComp @key="item" 
+                  Item="@item" 
+                  OnQuantityChanged="ReloadCart" 
+                  OnItemDeleted="RemoveItem"
+                  DisabledSelect="false" 
+                  CssClassForButtonDelete="" />
+    }
+}
+
+@code {
+    private List<CartItem> Items;
+    private decimal SubTotal = 0m;
+    private string searchKey { get; set; }
+
+    [Inject]
+    private CartServices cartServices { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await ReloadCart();
+    }
+
+    protected void RemoveItem(CartItem item)
+    {
+        Items.Remove(item);
+    }
+
+    protected async Task ReloadCart()
+    {
+        SubTotal = 0m;
+        Items = await cartServices.GetItems();
+        foreach (var item in Items) { SubTotal += item.Price * item.Quantity; }
+    }
+
+    protected IEnumerable<CartItem> SearchResult =>
+        Items.Where(item =>
+        string.IsNullOrEmpty(searchKey) ||
+        item.Name.ToLower().Contains(searchKey.ToLower()));
+
+}

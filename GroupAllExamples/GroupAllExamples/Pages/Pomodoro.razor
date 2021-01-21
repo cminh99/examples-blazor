@@ -1,0 +1,102 @@
+﻿@page "/pomodoro"
+@using System;
+@using System.Threading;
+@using GroupAllExamples.Components.Pomodoro
+
+<style>
+    .button { width: 96px; }
+</style>
+
+<h1>Pomodoro Clock</h1>
+
+<div class="card mt-3">
+    <div class="card-body text-center">
+        <PomodoroComp FormattedTimer="@FormattedTimer" />
+        <div class="mt-4">
+            <MudButton Class="button mr-1"
+                       Variant="Variant.Filled"
+                       Color="Color.Dark"
+                       Disabled="@isStart"
+                       @onclick="Start">
+                @TextButton
+            </MudButton>
+            <MudButton Class="button ml-1"
+                       Variant="Variant.Filled"
+                       Color="Color.Dark"
+                       Disabled="@isStop"
+                       @onclick="Stop">
+                Stop
+            </MudButton>
+            <br />
+            <MudButton Class="button mt-3"
+                       Variant="Variant.Outlined"
+                       Color="Color.Dark"
+                       Disabled="@isReset"
+                       @onclick="Reset">
+                Reset
+            </MudButton>
+        </div>
+    </div>
+</div>
+
+@code {
+    private System.Threading.Timer timer;
+    private int time = 25 * 60;
+    private string TextButton = "Start";
+
+    protected string FormattedTimer => TimeSpan.FromSeconds(time).ToString(@"mm\:ss");
+
+    protected bool isStart { get; set; } = false;
+    protected bool isStop { get; set; } = true;
+    protected bool isReset { get; set; } = true;
+
+    public void Dispose()
+    {
+        timer?.Dispose();
+    }
+
+    protected void Start()
+    {
+        Dispose();
+        CountDown();
+
+        isStart = true;
+        isStop = false;
+
+        if (TextButton == "Resume") TextButton = "Start";
+        if (!isReset) isReset = true;
+    }
+
+    protected void Stop()
+    {
+        timer?.Change(Timeout.Infinite, Timeout.Infinite);
+        TextButton = "Resume";
+
+        isStart = false;
+        isStop = true;
+        isReset = false;
+    }
+
+    protected void Reset()
+    {
+        Dispose();
+        time = 25 * 60;
+        TextButton = "Start";
+
+        isStart = false;
+        isStop = true;
+        isReset = true;
+    }
+
+    private void CountDown()
+    {
+        timer = new System.Threading.Timer(_ =>
+        {
+            if (time > 0)
+            {
+                time -= 1;
+                InvokeAsync(StateHasChanged);
+            }
+        }, null, 0, 1000);
+    }
+}

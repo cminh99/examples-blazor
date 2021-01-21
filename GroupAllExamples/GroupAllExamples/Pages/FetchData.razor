@@ -1,0 +1,17 @@
+﻿@page "/fetchdata"
+@using GroupAllExamples.Components.FetchData
+@using GroupAllExamples.Data
+@inject WeatherForecastService ForecastService
+
+<h1>Weather forecast</h1>
+
+<FetchDataComp Forecasts="@Forecasts" />
+
+@code {
+    private WeatherForecast[] Forecasts;
+
+    protected override async Task OnInitializedAsync()
+    {
+        Forecasts = await ForecastService.GetForecastAsync(DateTime.Now);
+    }
+}
