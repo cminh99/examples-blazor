@@ -1,0 +1,28 @@
+﻿<FullscreenComp FullScreen="@fullscreen">
+    <div class="card">
+        <div class="card-header d-flex justify-content-between align-items-center">
+            <span>@Heading</span>
+            <span>
+                <MudIconButton Size="Size.Small"
+                               OnClick="ToggleFullScreen"
+                               Icon="@(fullscreen ? Icons.Material.FullscreenExit : Icons.Material.Fullscreen)">
+                </MudIconButton>
+            </span>
+        </div>
+        <div class="card-body">
+            @ChildContent
+        </div>
+    </div>
+</FullscreenComp>
+
+@code {
+    [Parameter]
+    public string Heading { get; set; }
+
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+
+    private bool fullscreen { get; set; }
+
+    private void ToggleFullScreen() => fullscreen = !fullscreen;
+}

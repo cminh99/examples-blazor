@@ -119,5 +119,9 @@ D:\Thuc tap\Examples Blazor\GroupAllExamples\GroupAllExamples\obj\Debug\net5.0\R
 D:\Thuc tap\Examples Blazor\GroupAllExamples\GroupAllExamples\obj\Debug\net5.0\Razor\Components\Cart\QuantityComp.razor.g.cs
 D:\Thuc tap\Examples Blazor\GroupAllExamples\GroupAllExamples\obj\Debug\net5.0\RazorDeclaration\Components\ConfirmDialog.razor.g.cs
 D:\Thuc tap\Examples Blazor\GroupAllExamples\GroupAllExamples\obj\Debug\net5.0\Razor\Components\ConfirmDialog.razor.g.cs
-D:\Thuc tap\Examples Blazor\GroupAllExamples\GroupAllExamples\obj\Debug\net5.0\RazorDeclaration\Pages\BlogPosts.razor.g.cs
-D:\Thuc tap\Examples Blazor\GroupAllExamples\GroupAllExamples\obj\Debug\net5.0\Razor\Pages\BlogPosts.razor.g.cs
+D:\Thuc tap\Examples Blazor\GroupAllExamples\GroupAllExamples\obj\Debug\net5.0\RazorDeclaration\Pages\Dashboard.razor.g.cs
+D:\Thuc tap\Examples Blazor\GroupAllExamples\GroupAllExamples\obj\Debug\net5.0\Razor\Pages\Dashboard.razor.g.cs
+D:\Thuc tap\Examples Blazor\GroupAllExamples\GroupAllExamples\obj\Debug\net5.0\RazorDeclaration\Components\Dashboard\FullscreenComp.razor.g.cs
+D:\Thuc tap\Examples Blazor\GroupAllExamples\GroupAllExamples\obj\Debug\net5.0\RazorDeclaration\Components\Dashboard\PanelComp.razor.g.cs
+D:\Thuc tap\Examples Blazor\GroupAllExamples\GroupAllExamples\obj\Debug\net5.0\Razor\Components\Dashboard\FullscreenComp.razor.g.cs
+D:\Thuc tap\Examples Blazor\GroupAllExamples\GroupAllExamples\obj\Debug\net5.0\Razor\Components\Dashboard\PanelComp.razor.g.cs

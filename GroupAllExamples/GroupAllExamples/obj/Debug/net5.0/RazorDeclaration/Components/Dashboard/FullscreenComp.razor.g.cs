@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace GroupAllExamples.Pages
+namespace GroupAllExamples.Components.Dashboard
 {
     #line hidden
     using System;
@@ -96,14 +96,25 @@ using MudBlazor.Dialog;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/posts")]
-    public partial class BlogPosts : Microsoft.AspNetCore.Components.ComponentBase
+    public partial class FullscreenComp : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 31 "D:\Thuc tap\Examples Blazor\GroupAllExamples\GroupAllExamples\Components\Dashboard\FullscreenComp.razor"
+       
+    [Parameter]
+    public bool FullScreen { get; set; }
+
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591
